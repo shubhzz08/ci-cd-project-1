@@ -1,7 +1,7 @@
 import java.awt.*;
 import javax.swing.*;
 
-public class CollegeAdmissionPage {
+public class collgepage {
     public static void main(String[] args) {
         // Check if the environment is headless
         if (GraphicsEnvironment.isHeadless()) {
